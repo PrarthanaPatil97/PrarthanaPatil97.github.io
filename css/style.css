@@ -342,7 +342,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: bold;
 }
 .info li .second-block {
-  width: 50%;
+  width: 60%;
   display: inline-block;
   color: rgba(0, 0, 0, 0.5);
 }
@@ -1259,7 +1259,7 @@ input[type="text"] {
 }
 
 .row-pb-md {
-  padding-bottom: 4em !important;
+  padding-bottom: 2em !important;
 }
 
 .row-pb-sm {
